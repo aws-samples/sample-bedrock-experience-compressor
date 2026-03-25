@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+*.js
+*.d.ts
+
+# Keep specific JS files
+!vite.config.ts
+!*.config.js
+!vite-env.d.ts
+
+# Environment
+.env
+.env.*
+!.env.example
+.env.local
+
+# Credentials & keys
+credentials
+credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# CDK
+cdk.out/
+.cdk.staging/
+cdk.context.json
+
+# AWS config
+.aws/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# draw.io backups
+.*drawio.bkp
+.*drawio.dtmp
+
+# Testing
+coverage/
+
+# Build
+*.tsbuildinfo
+xp-compressor-session.json
+cognito-users.txt
+state.json
+
+# Excluded from aws-samples publication (kept in internal GitLab)
+# When publishing to GitHub, exclude these via clean export script
+# security-review/    → security artifacts, threat models, PCSR plan
+# docs/pr-faq/        → internal PRFAQ with customer references
+# PROBESCAN_ANALYSIS.md → moved to security-review/demo-summit-paris-2026/
+
+# Security scanner outputs
+.ash/
+
+# AI assistant
+.kiro
+.claude
+.agents
+.mcp.json

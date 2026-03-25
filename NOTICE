@@ -1,0 +1,14 @@
+Experience Compressor
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+Licensed under the MIT-0 License. See the LICENSE file.
+
+This project uses the following third-party libraries:
+
+- Cloudscape Design System (https://cloudscape.design) — Apache-2.0
+- Recharts (https://recharts.org) — MIT
+- React (https://react.dev) — MIT
+- AWS CDK (https://github.com/aws/aws-cdk) — Apache-2.0
+- AWS SDK for JavaScript v3 (https://github.com/aws/aws-sdk-js-v3) — Apache-2.0
+- Vite (https://vitejs.dev) — MIT
+- Boto3 (https://github.com/boto/boto3) — Apache-2.0

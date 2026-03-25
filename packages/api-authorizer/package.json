@@ -1,0 +1,9 @@
+{
+  "name": "@xp-compressor/api-authorizer",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT-0",
+  "dependencies": {
+    "aws-jwt-verify": "^4.0.1"
+  }
+}

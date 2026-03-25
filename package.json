@@ -1,0 +1,30 @@
+{
+  "name": "xp-compressor",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT-0",
+  "workspaces": [
+    "packages/*",
+    "infrastructure"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev -w @xp-compressor/web\" \"npm run dev -w @xp-compressor/api-technician\"",
+    "dev:expert": "npm run dev -w @xp-compressor/expert-web",
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "deploy:dev": "cd infrastructure && cdk deploy --all --context env=dev",
+    "deploy:prod": "cd infrastructure && cdk deploy --all --context env=prod"
+  },
+  "overrides": {
+    "fast-xml-parser": ">=5.5.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.57.0",
+    "@typescript-eslint/parser": "^8.57.0",
+    "concurrently": "^8.2.0",
+    "eslint": "^10.0.3",
+    "prettier": "^3.8.1",
+    "typescript": "^5.3.0"
+  }
+}

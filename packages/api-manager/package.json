@@ -1,0 +1,11 @@
+{
+  "name": "@xp-compressor/api-manager",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT-0",
+  "description": "Manager API - AI analysis, insights, report indexing (Python lambdas)",
+  "scripts": {
+    "test": "cd lambdas/report_indexer && python -m pytest",
+    "lint": "echo 'No lint configured for Python lambdas'"
+  }
+}

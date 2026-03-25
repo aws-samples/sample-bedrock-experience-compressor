@@ -1,0 +1,242 @@
+[
+  {
+    "reportId": "report-sg-003",
+    "createdAt": "2026-02-18T15:45:00Z",
+    "runbookId": "RB-002",
+    "completedAt": "2026-02-18T15:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-002/2026-02-18/report-sg-003.md"
+  },
+  {
+    "reportId": "report-turb-002",
+    "createdAt": "2026-02-12T15:45:00Z",
+    "runbookId": "RB-003",
+    "completedAt": "2026-02-12T15:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-003/2026-02-12/report-turb-002.md"
+  },
+  {
+    "reportId": "report-rcp-b",
+    "createdAt": "2026-01-22T14:20:00Z",
+    "runbookId": "RB-001",
+    "completedAt": "2026-01-22T14:20:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-001/2026-01-22/report-rcp-b.md"
+  },
+  {
+    "reportId": "report-sg-004",
+    "createdAt": "2026-03-10T14:30:00Z",
+    "runbookId": "RB-002",
+    "completedAt": "2026-03-10T14:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-002/2026-03-10/report-sg-004.md"
+  },
+  {
+    "reportId": "report-sg-002",
+    "createdAt": "2026-02-05T15:15:00Z",
+    "runbookId": "RB-002",
+    "completedAt": "2026-02-05T15:15:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-002/2026-02-05/report-sg-002.md"
+  },
+  {
+    "reportId": "report-rcp-d",
+    "createdAt": "2026-02-10T14:45:00Z",
+    "runbookId": "RB-001",
+    "completedAt": "2026-02-10T14:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-001/2026-02-10/report-rcp-d.md"
+  },
+  {
+    "reportId": "report-rcp-a",
+    "createdAt": "2026-01-15T14:15:00Z",
+    "runbookId": "RB-001",
+    "completedAt": "2026-01-15T14:15:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-001/2026-01-15/report-rcp-a.md"
+  },
+  {
+    "reportId": "report-hydro-002",
+    "createdAt": "2026-03-15T17:15:00Z",
+    "runbookId": "RB-HYDRO-001",
+    "completedAt": "2026-03-15T17:15:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-HYDRO-001/2026-03-15/report-hydro-002.md"
+  },
+  {
+    "reportId": "report-cont-test",
+    "createdAt": "2026-01-18T13:15:00Z",
+    "runbookId": "RB-015",
+    "completedAt": "2026-01-18T13:15:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-015/2026-01-18/report-cont-test.md"
+  },
+  {
+    "reportId": "report-vlv-003-c205",
+    "createdAt": "2026-01-29T13:45:00Z",
+    "runbookId": "RB-VLV-003",
+    "completedAt": "2026-01-29T13:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-VLV-003/2026-01-29/report-vlv-003-c205.md"
+  },
+  {
+    "reportId": "report-rcp-c",
+    "createdAt": "2026-01-28T12:50:00Z",
+    "runbookId": "RB-001",
+    "completedAt": "2026-01-28T12:50:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-001/2026-01-28/report-rcp-c.md"
+  },
+  {
+    "reportId": "report-wind-gb-002",
+    "createdAt": "2026-02-08T15:30:00Z",
+    "runbookId": "RB-WIND-001",
+    "completedAt": "2026-02-08T15:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-WIND-001/2026-02-08/report-wind-gb-002.md"
+  },
+  {
+    "reportId": "report-hydro-001",
+    "createdAt": "2026-02-01T18:30:00Z",
+    "runbookId": "RB-HYDRO-001",
+    "completedAt": "2026-02-01T18:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-HYDRO-001/2026-02-01/report-hydro-001.md"
+  },
+  {
+    "reportId": "report-rcp-f",
+    "createdAt": "2026-03-05T12:20:00Z",
+    "runbookId": "RB-001",
+    "completedAt": "2026-03-05T12:20:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-001/2026-03-05/report-rcp-f.md"
+  },
+  {
+    "reportId": "report-wind-blade-002",
+    "createdAt": "2026-02-15T16:45:00Z",
+    "runbookId": "RB-WIND-002",
+    "completedAt": "2026-02-15T16:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-WIND-002/2026-02-15/report-wind-blade-002.md"
+  },
+  {
+    "reportId": "report-wind-gb-001",
+    "createdAt": "2026-01-18T14:15:00Z",
+    "runbookId": "RB-WIND-001",
+    "completedAt": "2026-01-18T14:15:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-WIND-001/2026-01-18/report-wind-gb-001.md"
+  },
+  {
+    "reportId": "report-vlv-003",
+    "createdAt": "2026-01-28T13:30:00Z",
+    "runbookId": "RB-VLV-003",
+    "completedAt": "2026-01-28T13:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-VLV-003/2026-01-28/report-vlv-003.md"
+  },
+  {
+    "reportId": "report-solar-001",
+    "createdAt": "2026-01-28T13:45:00Z",
+    "runbookId": "RB-SOLAR-001",
+    "completedAt": "2026-01-28T13:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-SOLAR-001/2026-01-28/report-solar-001.md"
+  },
+  {
+    "reportId": "report-wind-blade-001",
+    "createdAt": "2026-01-30T14:30:00Z",
+    "runbookId": "RB-WIND-002",
+    "completedAt": "2026-01-30T14:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-WIND-002/2026-01-30/report-wind-blade-001.md"
+  },
+  {
+    "reportId": "report-turb-003",
+    "createdAt": "2026-03-01T14:15:00Z",
+    "runbookId": "RB-003",
+    "completedAt": "2026-03-01T14:15:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-003/2026-03-01/report-turb-003.md"
+  },
+  {
+    "reportId": "report-rcp-e",
+    "createdAt": "2026-02-25T13:30:00Z",
+    "runbookId": "RB-001",
+    "completedAt": "2026-02-25T13:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-001/2026-02-25/report-rcp-e.md"
+  },
+  {
+    "reportId": "report-wind-blade-003",
+    "createdAt": "2026-03-08T13:45:00Z",
+    "runbookId": "RB-WIND-002",
+    "completedAt": "2026-03-08T13:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-WIND-002/2026-03-08/report-wind-blade-003.md"
+  },
+  {
+    "reportId": "report-hx-002",
+    "createdAt": "2026-03-07T15:45:00Z",
+    "runbookId": "RB-THERMAL-001",
+    "completedAt": "2026-03-07T15:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-THERMAL-001/2026-03-07/report-hx-002.md"
+  },
+  {
+    "reportId": "report-turb-004",
+    "createdAt": "2026-03-18T13:45:00Z",
+    "runbookId": "RB-003",
+    "completedAt": "2026-03-18T13:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-003/2026-03-18/report-turb-004.md"
+  },
+  {
+    "reportId": "report-solar-003",
+    "createdAt": "2026-03-12T12:30:00Z",
+    "runbookId": "RB-SOLAR-001",
+    "completedAt": "2026-03-12T12:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-SOLAR-001/2026-03-12/report-solar-003.md"
+  },
+  {
+    "reportId": "report-sg-001",
+    "createdAt": "2026-01-20T15:45:00Z",
+    "runbookId": "RB-002",
+    "completedAt": "2026-01-20T15:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-002/2026-01-20/report-sg-001.md"
+  },
+  {
+    "reportId": "report-solar-002",
+    "createdAt": "2026-02-20T14:30:00Z",
+    "runbookId": "RB-SOLAR-001",
+    "completedAt": "2026-02-20T14:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-SOLAR-001/2026-02-20/report-solar-002.md"
+  },
+  {
+    "reportId": "report-wind-gb-003",
+    "createdAt": "2026-03-03T13:15:00Z",
+    "runbookId": "RB-WIND-001",
+    "completedAt": "2026-03-03T13:15:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-WIND-001/2026-03-03/report-wind-gb-003.md"
+  },
+  {
+    "reportId": "report-hx-001",
+    "createdAt": "2026-02-10T16:45:00Z",
+    "runbookId": "RB-THERMAL-001",
+    "completedAt": "2026-02-10T16:45:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-THERMAL-001/2026-02-10/report-hx-001.md"
+  },
+  {
+    "reportId": "report-turb-001",
+    "createdAt": "2026-01-25T16:30:00Z",
+    "runbookId": "RB-003",
+    "completedAt": "2026-01-25T16:30:00Z",
+    "indexPartition": "ALL",
+    "s3Key": "RB-003/2026-01-25/report-turb-001.md"
+  }
+]

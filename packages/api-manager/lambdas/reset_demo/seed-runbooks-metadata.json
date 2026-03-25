@@ -1,0 +1,82 @@
+[
+  {
+    "runbookId": "RB-001",
+    "procedureCode": "PROC-RCP-2024-001",
+    "title": "RB-001: Primary Coolant Pump Maintenance",
+    "version": "3.2",
+    "s3LatestPath": "RB-001/v3.2/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-002",
+    "procedureCode": "PROC-SG-2024-002",
+    "title": "RB-002: Steam Generator Tube Inspection",
+    "version": "2.1",
+    "s3LatestPath": "RB-002/v2.1/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-003",
+    "procedureCode": "PROC-TURB-2024-003",
+    "title": "RB-003: Turbine Blade Inspection",
+    "version": "4.0",
+    "s3LatestPath": "RB-003/v4.0/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-015",
+    "procedureCode": "RB-015",
+    "title": "RB-015: Containment Pressure Test",
+    "version": "2.1",
+    "s3LatestPath": "RB-015/v2.1/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-HYDRO-001",
+    "procedureCode": "PROC-HYDRO-TURB-2024-001",
+    "title": "RB-HYDRO-001: Kaplan Turbine Runner Inspection",
+    "version": "3.1",
+    "s3LatestPath": "RB-HYDRO-001/v3.1/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-SOLAR-001",
+    "procedureCode": "PROC-SOLAR-INV-2024-001",
+    "title": "RB-SOLAR-001: Central Inverter Maintenance",
+    "version": "1.5",
+    "s3LatestPath": "RB-SOLAR-001/v1.5/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-THERMAL-001",
+    "procedureCode": "PROC-HX-2024-001",
+    "title": "RB-THERMAL-001: Heat Exchanger Tube Bundle Cleaning",
+    "version": "2.0",
+    "s3LatestPath": "RB-THERMAL-001/v2.0/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-VLV-003",
+    "procedureCode": "PROC-VLV-2024-003",
+    "title": "RB-VLV-003: Isolation Valve Replacement DN150 PN16",
+    "version": "3.2",
+    "s3LatestPath": "RB-VLV-003/v3.2/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-WIND-001",
+    "procedureCode": "PROC-WIND-GB-2024-001",
+    "title": "RB-WIND-001: Wind Turbine Gearbox Oil Change",
+    "version": "3.0",
+    "s3LatestPath": "RB-WIND-001/v3.0/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "runbookId": "RB-WIND-002",
+    "procedureCode": "PROC-WIND-BLADE-2024-002",
+    "title": "RB-WIND-002: Blade Leading Edge Erosion Repair",
+    "version": "2.3",
+    "s3LatestPath": "RB-WIND-002/v2.3/runbook.md",
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]
