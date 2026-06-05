@@ -14,7 +14,7 @@
     "@cloudscape-design/global-styles": "^1.0.0",
     "@xp-compressor/shared": "*",
     "amazon-cognito-identity-js": "^6.3.0",
-    "axios": "^1.6.0",
+    "axios": "^1.16.0",
     "browser-image-compression": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
